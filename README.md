@@ -204,7 +204,8 @@ Owners: [
 ]
 Confirmations required: 2
 ```
-
+![Terminal window highlighting Hardhat deployment log for MultiSigWallet where npx hardhat run scripts/deploy.js outputs Deploying MultiSigWallet..., MultiSigWallet deployed to 0x5FbDB2315678afecb367f032d93F642f64180aa3, lists three owner addresses, and confirms Confirmations required: 2 within a calm CLI environment](./img/deploy.png)
+<sub>Figure: Screenshot of successful deployment.</sub>
 ---
 
 ## **7. Security Analysis**
@@ -249,3 +250,7 @@ The result meets all assignment criteria and provides:
 * high-quality documentation
 
 This type of multisig wallet is commonly used in DAOs, treasury management, and high-value accounts in decentralized systems.
+
+## **9. Repository Link**
+
+You can find the complete code in my **Github repository:** https://github.com/sgorgun/multisig-wallet-assignment
