@@ -253,4 +253,4 @@ This type of multisig wallet is commonly used in DAOs, treasury management, and 
 
 ## **9. Repository Link**
 
-You can find the complete code in my **Github repository:** https://github.com/sgorgun/multisig-wallet-assignment
+You can find the complete code in my **Github repository:** https://github.com/sgorgun/multisig-wallet-assignment.git
